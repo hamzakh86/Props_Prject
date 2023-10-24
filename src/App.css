@@ -1,0 +1,6 @@
+/*
+src App.css display style for players
+*/
+.container{
+  display:flex
+}
